@@ -12,7 +12,7 @@ Figma
 https://www.figma.com/design/B68smatjRYbU2KKeeKJSKH/Untitled?m=auto&t=SUxy0CwUN2x7KnPd-1
 
 Автор
-Vorobiov Serghei
+Toderici Alexandr
 
 Преподаватель
 Gairunova Natalia
